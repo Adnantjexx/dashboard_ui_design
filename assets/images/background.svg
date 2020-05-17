@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="365" height="736" viewBox="0 0 365 736">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#363568"/>
+      <stop offset="1" stop-color="#272843"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.392" y1="0.29" x2="0.841" y2="0.936" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff8fa9"/>
+      <stop offset="1" stop-color="#ff47c3"/>
+    </linearGradient>
+    <clipPath id="clip-dashboard_1">
+      <rect width="365" height="736"/>
+    </clipPath>
+  </defs>
+  <g id="dashboard_1" data-name="dashboard – 1" clip-path="url(#clip-dashboard_1)">
+    <rect width="365" height="736" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_12" data-name="Rectangle 12" width="342" height="306" rx="82" transform="translate(77.998 -151.145) rotate(30)" fill="url(#linear-gradient-2)"/>
+  </g>
+</svg>

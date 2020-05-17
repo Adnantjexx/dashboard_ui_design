@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26" height="26" viewBox="0 0 26 26">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.246" y1="0.197" x2="0.868" y2="0.937" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff8fa9"/>
+      <stop offset="1" stop-color="#ff47c3"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_29" data-name="Group 29" transform="translate(51 -37)">
+    <path id="Exclusion_5" data-name="Exclusion 5" d="M24,26H2a2,2,0,0,1-2-2V7A2,2,0,0,1,2,5H4.256a4.5,4.5,0,0,0,8.488,0h1.513a4.5,4.5,0,0,0,8.488,0H24a2,2,0,0,1,2,2V24A2,2,0,0,1,24,26ZM9.5,17A2.5,2.5,0,1,0,12,19.5,2.5,2.5,0,0,0,9.5,17Zm8-7A2.5,2.5,0,1,0,20,12.5,2.5,2.5,0,0,0,17.5,10Zm-8,0A2.5,2.5,0,1,0,12,12.5,2.5,2.5,0,0,0,9.5,10ZM19,6H18a2,2,0,0,1-2-2V2a2,2,0,0,1,2-2h1a2,2,0,0,1,2,2V4A2,2,0,0,1,19,6ZM9,6H8A2,2,0,0,1,6,4V2A2,2,0,0,1,8,0H9a2,2,0,0,1,2,2V4A2,2,0,0,1,9,6Z" transform="translate(-51 37)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

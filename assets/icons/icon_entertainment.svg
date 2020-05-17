@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.174" y1="0.175" x2="0.813" y2="0.873" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff8383"/>
+      <stop offset="1" stop-color="#ff4b4b"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_24" data-name="Group 24" transform="translate(-206 38)">
+    <circle id="Ellipse_26" data-name="Ellipse 26" cx="32" cy="32" r="32" transform="translate(206 -38)" fill="url(#linear-gradient)"/>
+    <g id="Group_14" data-name="Group 14" transform="translate(470 -73.064)">
+      <path id="Exclusion_4" data-name="Exclusion 4" d="M23,17H2a2,2,0,0,1-2-2V2A2,2,0,0,1,2,0H23a2,2,0,0,1,2,2V15A2,2,0,0,1,23,17ZM9.19,3.642a1,1,0,0,0-1,1v7.714a1,1,0,0,0,1,1,.988.988,0,0,0,.47-.12l7.223-3.856a1,1,0,0,0,0-1.765L9.661,3.761A.987.987,0,0,0,9.19,3.642Z" transform="translate(-244 61.064)" fill="#fff"/>
+      <path id="Subtraction_1" data-name="Subtraction 1" d="M3.8,9.924v0L7.377,3.733l2.948-.79L6.751,9.134,3.8,9.923ZM.953,9.8h0A1.986,1.986,0,0,1,.307,8.79L.033,7.771A2,2,0,0,1,1.448,5.322l2.476-.663L.954,9.8Zm9.251-1.6v0l3.572-6.188,3.37-.9L13.573,7.306l-3.367.9ZM17.027,6.38v0L20.6.19l.584-.156a2,2,0,0,1,2.087.691L20.55,5.436l-3.521.943Z" transform="translate(-243.754 49.897)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
